@@ -1,5 +1,8 @@
 # Glossario
 
+
+## Palavras Importantes
+
 ### Código de Defesa do Consumidor
 
 Conjunto de regras e regulamentos que têm o propósito de proteger os direitos do consumidor e regular as relações entre fornecedores e consumidores, estabelecendo padrões de comportamento, prazos e penalidades.
@@ -48,7 +51,7 @@ Compliance, em termos gerais, refere-se à conformidade com regras, regulamentos
 
 O Sistema Nacional de Defesa do Consumidor (SNDC) é uma estrutura organizacional no Brasil criada para promover a proteção e defesa dos direitos dos consumidores. É composto por diversos órgãos governamentais, entidades e instituições que trabalham em conjunto para garantir o cumprimento das leis de proteção do consumidor.
 
-### ==DIREITOS==
+## DIREITO
 
 ### Direito à privacidade
 É um princípio legal que protege o indivíduo contra a interferência indesejada ou a divulgação não autorizada de informações pessoais. Ele abrange a capacidade de manter segredos pessoais, controlar seus dados pessoais e evitar intromissões indevidas em sua vida pessoal.
@@ -74,7 +77,7 @@ O direito de igualdade é o princípio legal que estabelece que todas as pessoas
 
 
 
-### RELAÇÕES
+## RELAÇÕES
 ### O que é o direito do consumidor?
 O direito do consumidor é um conjunto de normas legais e regulamentações que protegem os interesses e os direitos dos consumidores em transações comerciais. Essas leis visam garantir que os consumidores tenham acesso a produtos e serviços de qualidade, informações claras sobre os produtos e serviços, além de protegê-los contra práticas comerciais injustas e enganosas.
 
