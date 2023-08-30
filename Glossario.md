@@ -53,7 +53,9 @@ O Sistema Nacional de Defesa do Consumidor (SNDC) é uma estrutura organizaciona
 
 ### Empresas Virtuais
 
-### Comercio Eletronico
+Empresas Virtuais, também conhecidas como negócios virtuais ou empresas online, são organizações que operam principalmente no ambiente digital, sem uma presença física tradicional. Elas existem no mundo virtual, na internet.
+
+### Comércio Eletrônico 
 
 
 ## DIREITO
@@ -106,6 +108,21 @@ No Brasil está regulamentado principalmente pelo Código de Defesa do Consumido
 O direito do consumidor se aplica tanto a transações digitais (online) quanto a transações não digitais (offline). À medida que as compras e transações online se tornaram mais comuns, muitos países também estenderam suas regulamentações de proteção do consumidor para abranger as compras pela internet, garantindo que os consumidores tenham os mesmos direitos e proteções em ambos os contextos.
 
 No Brasil se aplica tanto a transações digitais quanto a transações não digitais. Em relação a transações online, o CDC também se aplica, e há órgãos de defesa do consumidor que monitoram e regulamentam o comércio eletrônico. O Marco Civil da Internet (Lei nº 12.965/2014) estabelece diretrizes para o uso da internet no Brasil, incluindo proteção dos dados do consumidor. Portanto, as proteções aos direitos do consumidor se estendem a ambas as esferas, digital e não digital.
+
+
+## Empresas Virtuais e Comércio Eletrônico 
+
+### Empresas Virtuais
+
+### O que são
+Empresas Virtuais, também conhecidas como negócios virtuais ou empresas online, são organizações que operam principalmente no ambiente digital, sem uma presença física tradicional. Elas existem no mundo virtual, na internet.
+
+### Para que servem
+Empresas Virtuais prestam serviços, vendem produtos ou oferecem conteúdo online. Elas podem abranger uma ampla variedade de setores, desde comércio eletrônico até consultoria, educação online e muito mais.
+
+### Como funcionam
+Empresas Virtuais operam por meio de sites, aplicativos móveis ou outras plataformas online. Elas interagem com os clientes, fornecedores e funcionários principalmente por meio de canais digitais.
+Desafios: Os desafios incluem a concorrência intensa online, questões de segurança cibernética, manutenção da confiança do cliente e adaptação às mudanças tecnológicas constantes.
 
 
 
