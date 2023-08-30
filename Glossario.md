@@ -114,9 +114,6 @@ No Brasil se aplica tanto a transações digitais quanto a transações não dig
 
 ### Empresas Virtuais
 
-### O que são
-Empresas Virtuais, também conhecidas como negócios virtuais ou empresas online, são organizações que operam principalmente no ambiente digital, sem uma presença física tradicional. Elas existem no mundo virtual, na internet.
-
 ### Para que servem
 Empresas Virtuais prestam serviços, vendem produtos ou oferecem conteúdo online. Elas podem abranger uma ampla variedade de setores, desde comércio eletrônico até consultoria, educação online e muito mais.
 
