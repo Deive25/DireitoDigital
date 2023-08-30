@@ -1,5 +1,4 @@
-# Vocabulário
-Neste arquivo, há algumas palavras e/ou expressões que ajudam na compreensão do tema para a área da Computação.
+# Glossario
 
 ### Código de defesa do consumidor
 Conjunto de normas que visam a proteção aos direitos do consumidor, bem como disciplinar as relações e as responsabilidades entre o fornecedor com o consumidor final, estabelecendo padrões de conduta, prazos e penalidades.
