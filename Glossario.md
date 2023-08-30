@@ -1,33 +1,40 @@
 # Glossario
 
-### Código de defesa do consumidor
-Conjunto de normas que visam a proteção aos direitos do consumidor, bem como disciplinar as relações e as responsabilidades entre o fornecedor com o consumidor final, estabelecendo padrões de conduta, prazos e penalidades.
+### Código de Defesa do Consumidor
 
-### Direito contencioso
-Faz referência a tudo ou pode ser objeto de contestação, disputa ou conflito de interesses.
+Conjunto de regras e regulamentos que têm o propósito de proteger os direitos do consumidor e regular as relações entre fornecedores e consumidores, estabelecendo padrões de comportamento, prazos e penalidades.
 
-### Direito digital
-Ramo do direito que tem como objetivo proporcionar as normatizações e regulamentações do uso dos ambientes digitais pelas pessoas, além de oferecer proteção de informações contidas nesses espaços e em aparelhos eletrônicos. Resumo: regulamenta as relações entre as pessoas e a internet.
+### Direito Contencioso
 
-### Lei Carolina Dieckmann (lei nº 12.737/2012)
-Lei que apresenta penas para crimes como invasão de aparelhos eletrônicos, interrupção de serviços digitais ou de conexão, falsificação de documentos ou de cartões de crédito ou débito.
+Refere-se a tudo o que pode ser objeto de disputa, contestação ou conflito de interesses.
 
-### Lei Marco Civil da Internet (lei nº 12.965/2014)
-Ela estabelece critérios de direitos e deveres de usuários, além de trazer regras para a manutenção da privacidade dos mesmos por terceiros, como provedores de serviços de internet e demais empresas. Resumo: estabelece princípios, garantias, direitos e deveres para o uso da internet no Brasil.
+### Direito Digital
 
-### Lei Geral de Proteção de Dados Pessoais (lei nº 13.709/2018)
-Esta Lei dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural.
+Uma área do direito que busca estabelecer normas e regulamentações para o uso de ambientes digitais pelas pessoas, bem como para proteger as informações contidas nesses espaços e em dispositivos eletrônicos. Em resumo, regulamenta as relações entre pessoas e a internet.
+
+### Lei Carolina Dieckmann (Lei nº 12.737/2012):
+
+Definição: Lei que estabelece penas para crimes como invasão de dispositivos eletrônicos, interrupção de serviços digitais ou de conexão, e falsificação de documentos ou cartões de crédito ou débito.
+
+### Lei Marco Civil da Internet (Lei nº 12.965/2014):
+
+Esta lei estabelece princípios, garantias, direitos e deveres para o uso da internet no Brasil. Além disso, traz regras para a proteção da privacidade dos usuários por terceiros, como provedores de serviços de internet e outras empresas.
+
+### Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018):
+
+Esta lei regula o tratamento de dados pessoais, inclusive em meios digitais, por pessoas naturais ou jurídicas, com o objetivo de proteger os direitos fundamentais à liberdade, privacidade e ao livre desenvolvimento da personalidade das pessoas.
 
 ### Norma
-Boas práticas ou um padrão estabelecido.
+
+Práticas recomendadas ou padrões estabelecidos.
 
 ### Pena
-Sanção aplicada como punição ou como reparação por uma ação julgada repreensível.
+
+Sanção aplicada como punição ou como forma de reparação por uma ação considerada repreensível.
 
 ### Regulamentação
-Conjunto de normas e disposições.
 
-
+O conjunto de normas e disposições que estabelecem as regras e diretrizes para uma determinada área ou setor.
 
 ### DIREITOS
 
