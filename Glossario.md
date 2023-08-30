@@ -36,6 +36,10 @@ Sanção aplicada como punição ou como forma de reparação por uma ação con
 
 O conjunto de normas e disposições que estabelecem as regras e diretrizes para uma determinada área ou setor.
 
+### Sistema Nacional de Defesa do Consumidor (SNDC):
+
+O Sistema Nacional de Defesa do Consumidor (SNDC) é uma estrutura organizacional no Brasil criada para promover a proteção e defesa dos direitos dos consumidores. É composto por diversos órgãos governamentais, entidades e instituições que trabalham em conjunto para garantir o cumprimento das leis de proteção do consumidor.
+
 ### DIREITOS
 
 ### Direito à privacidade
