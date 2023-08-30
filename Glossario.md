@@ -36,6 +36,14 @@ Sanção aplicada como punição ou como forma de reparação por uma ação con
 
 O conjunto de normas e disposições que estabelecem as regras e diretrizes para uma determinada área ou setor.
 
+### Compliance
+
+Compliance, em termos gerais, refere-se à conformidade com regras, regulamentos, leis e padrões éticos em uma organização ou indústria. É um conjunto de práticas que visa assegurar que uma empresa ou instituição opere de acordo com as leis, normas e padrões aplicáveis, bem como com suas próprias políticas e valores éticos.
+
+### Ética Empresarial
+
+Ética empresarial refere-se aos princípios e valores morais que uma empresa segue em suas operações comerciais. Isso inclui a promoção de comportamento ético entre os funcionários, a transparência nas operações e o respeito pelas leis e regulamentos.
+
 ### Sistema Nacional de Defesa do Consumidor (SNDC):
 
 O Sistema Nacional de Defesa do Consumidor (SNDC) é uma estrutura organizacional no Brasil criada para promover a proteção e defesa dos direitos dos consumidores. É composto por diversos órgãos governamentais, entidades e instituições que trabalham em conjunto para garantir o cumprimento das leis de proteção do consumidor.
