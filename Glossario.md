@@ -51,6 +51,11 @@ Compliance, em termos gerais, refere-se à conformidade com regras, regulamentos
 
 O Sistema Nacional de Defesa do Consumidor (SNDC) é uma estrutura organizacional no Brasil criada para promover a proteção e defesa dos direitos dos consumidores. É composto por diversos órgãos governamentais, entidades e instituições que trabalham em conjunto para garantir o cumprimento das leis de proteção do consumidor.
 
+### Empresas Virtuais
+
+### Comercio Eletronico
+
+
 ## DIREITO
 
 ### Direito à privacidade
@@ -73,7 +78,6 @@ O direito de igualdade é o princípio legal que estabelece que todas as pessoas
 
 ### Direito á segurança
 É o direito de uma pessoa de viver em um ambiente seguro e protegido, onde sua integridade física e propriedade são respeitadas e protegidas. Esse direito também se estende à proteção contra ameaças à segurança nacional.
-
 
 
 
@@ -102,3 +106,7 @@ No Brasil está regulamentado principalmente pelo Código de Defesa do Consumido
 O direito do consumidor se aplica tanto a transações digitais (online) quanto a transações não digitais (offline). À medida que as compras e transações online se tornaram mais comuns, muitos países também estenderam suas regulamentações de proteção do consumidor para abranger as compras pela internet, garantindo que os consumidores tenham os mesmos direitos e proteções em ambos os contextos.
 
 No Brasil se aplica tanto a transações digitais quanto a transações não digitais. Em relação a transações online, o CDC também se aplica, e há órgãos de defesa do consumidor que monitoram e regulamentam o comércio eletrônico. O Marco Civil da Internet (Lei nº 12.965/2014) estabelece diretrizes para o uso da internet no Brasil, incluindo proteção dos dados do consumidor. Portanto, as proteções aos direitos do consumidor se estendem a ambas as esferas, digital e não digital.
+
+
+
+
