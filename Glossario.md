@@ -129,3 +129,5 @@ Para criar uma empresa virtual, é essencial ter conhecimento na área de atuaç
 ### Relação de Empresas Virtuais com Comércio Eletrônico:
 
 As Empresas Virtuais frequentemente estão envolvidas no Comércio Eletrônico. O Comércio Eletrônico é uma das principais formas de operação para muitas Empresas Virtuais, onde elas vendem produtos ou serviços online, alcançando um público global. O Comércio Eletrônico é uma parte fundamental das operações de muitas Empresas Virtuais, mas não é exclusivo delas, já que empresas tradicionais também podem operar online, criando uma presença digital para atender às necessidades dos consumidores na era digital. Portanto, as Empresas Virtuais e o Comércio Eletrônico estão intimamente relacionados, uma vez que ambos se concentram em operações e transações no ambiente digital.
+
+## Assinatura e Certificação Digital
