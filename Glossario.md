@@ -120,7 +120,7 @@ Alguns dos desafios enfrentados pelas Empresas Virtuais incluem a concorrência 
  - Fidelização dos consumidores antigos: Incentivar feedback positivo e valorizar os clientes que já compraram é uma maneira eficaz de atrair novos consumidores. O pós-venda também desempenha um papel importante, com e-mails de marketing que fortaleçam o relacionamento e ofereçam descontos especiais.
 
  - Aumento do ticket médio de cada cliente: O faturamento pode crescer aumentando o valor médio gasto por cada cliente. Isso pode ser alcançado por meio de estratégias como promoções para compras conjuntas, ofertas de frete grátis, descontos e programas de recompensas.
- - 
+  
  - Desenvolvimento de estratégias de gestão para e-commerce: O e-commerce tem demandas específicas que precisam ser consideradas na gestão do negócio. É importante revisar e adaptar o planejamento e a gestão após o primeiro ano de operação, com melhorias que reflitam a experiência adquirida no negócio online. O foco deve estar no design, na experiência do cliente e em estratégias para aumentar o valor médio das compras.
 
 ### O Necessario para abrir uma
