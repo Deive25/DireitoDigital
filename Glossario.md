@@ -130,4 +130,30 @@ Para criar uma empresa virtual, é essencial ter conhecimento na área de atuaç
 
 As Empresas Virtuais frequentemente estão envolvidas no Comércio Eletrônico. O Comércio Eletrônico é uma das principais formas de operação para muitas Empresas Virtuais, onde elas vendem produtos ou serviços online, alcançando um público global. O Comércio Eletrônico é uma parte fundamental das operações de muitas Empresas Virtuais, mas não é exclusivo delas, já que empresas tradicionais também podem operar online, criando uma presença digital para atender às necessidades dos consumidores na era digital. Portanto, as Empresas Virtuais e o Comércio Eletrônico estão intimamente relacionados, uma vez que ambos se concentram em operações e transações no ambiente digital.
 
+
 ## Assinatura e Certificação Digital
+
+### Diferença entre Assinatura e Certificação Digital?
+
+Assinatura Digital:
+ 
+ - A assinatura digital é um processo que valida a autenticidade e integridade de um documento eletrônico.
+ - Ela envolve o ato de aplicar uma assinatura eletrônica em um documento, que pode ser feito por meio de diferentes métodos, como digitar seu nome, desenhar uma assinatura, ou utilizar uma assinatura digital criptografada.
+ - A assinatura digital é usada principalmente para confirmar a autoria de um documento e garantir que ele não tenha sido alterado desde a assinatura.
+ - Ela pode ser usada em uma variedade de contextos, desde documentos simples compartilhados online até contratos legais e transações financeiras.
+
+Certificação Digital:
+
+ - O certificado digital é um documento eletrônico que funciona como uma identidade virtual de uma pessoa ou entidade.
+ - Ele é emitido por uma Autoridade Certificadora (AC) reconhecida e atesta a identidade de seu titular.
+ - O certificado digital é usado para garantir a segurança e a autenticidade em transações online. -
+ - Ele é necessário para realizar assinaturas digitais, mas também pode ser utilizado para acessar serviços eletrônicos, autenticar-se em sistemas online, e garantir a segurança em comunicações criptografadas.
+ - O certificado digital é uma espécie de "carteira de identidade" eletrônica que protege contra ameaças cibernéticas e assegura a confiabilidade das transações online.
+
+Em resumo, a assinatura digital é o ato de aplicar uma assinatura eletrônica em um documento para validar sua autenticidade e integridade, enquanto o certificado digital é um documento eletrônico que atesta a identidade de seu titular e é usado como uma forma de autenticação e segurança em transações online. Ambos são essenciais para garantir a confiabilidade e a segurança das operações no ambiente digital.
+
+### Documento Digital
+
+Um documento digital é um tipo de documento que existe em formato eletrônico, em oposição aos documentos em papel. Eles são criados, armazenados, transmitidos e acessados em formato eletrônico, geralmente por meio de dispositivos eletrônicos, como computadores, tablets ou smartphones. Documentos digitais podem assumir várias formas, incluindo texto, imagem, áudio ou vídeo
+
+
