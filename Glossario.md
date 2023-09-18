@@ -159,6 +159,7 @@ Um documento digital é um tipo de documento que existe em formato eletrônico, 
 
 
 
-#### Obs: OutSourcing
+#### Obs: OutSourcing, legitima defesa na internet
+
 
 
