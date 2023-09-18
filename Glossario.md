@@ -157,3 +157,8 @@ Em resumo, a assinatura digital é o ato de aplicar uma assinatura eletrônica e
 Um documento digital é um tipo de documento que existe em formato eletrônico, em oposição aos documentos em papel. Eles são criados, armazenados, transmitidos e acessados em formato eletrônico, geralmente por meio de dispositivos eletrônicos, como computadores, tablets ou smartphones. Documentos digitais podem assumir várias formas, incluindo texto, imagem, áudio ou vídeo
 
 
+
+
+# Obs: OutSourcing
+
+
