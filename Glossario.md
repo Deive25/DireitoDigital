@@ -227,7 +227,7 @@ Ações Legais: Tomar medidas legais, como denunciar ataques cibernéticos às a
 ### Definição de ISO
 A ISO (International Organization for Standardization) é uma organização internacional que desenvolve e publica normas técnicas para uma ampla variedade de indústrias e setores em todo o mundo. Essas normas são projetadas para padronizar práticas, processos e produtos, a fim de promover a qualidade, segurança, eficiência e interoperabilidade em diferentes áreas. A ISO abrange uma ampla gama de tópicos, desde normas de gestão de qualidade até normas de segurança da informação e muitos outros campos.
 
-### conjunto ISO 27000
+### Conjunto ISO 27000
 
 A família de normas ISO 27000 é um conjunto abrangente de normas relacionadas à segurança da informação e proteção de dados. Essas normas foram desenvolvidas para ajudar organizações de todos os tamanhos e setores a estabelecerem práticas sólidas de segurança da informação, protegendo seus ativos de informação e mitigando riscos de segurança cibernética. As principais normas nesta família incluem:
 
