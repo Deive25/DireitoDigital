@@ -223,5 +223,30 @@ Ações Legais: Tomar medidas legais, como denunciar ataques cibernéticos às a
 
 #### Obs: OutSourcing, legitima defesa na internet
 
+## ISOs
+### Definição de ISO
+A ISO (International Organization for Standardization) é uma organização internacional que desenvolve e publica normas técnicas para uma ampla variedade de indústrias e setores em todo o mundo. Essas normas são projetadas para padronizar práticas, processos e produtos, a fim de promover a qualidade, segurança, eficiência e interoperabilidade em diferentes áreas. A ISO abrange uma ampla gama de tópicos, desde normas de gestão de qualidade até normas de segurança da informação e muitos outros campos.
+
+### conjunto ISO 27000
+
+A família de normas ISO 27000 é um conjunto abrangente de normas relacionadas à segurança da informação e proteção de dados. Essas normas foram desenvolvidas para ajudar organizações de todos os tamanhos e setores a estabelecerem práticas sólidas de segurança da informação, protegendo seus ativos de informação e mitigando riscos de segurança cibernética. As principais normas nesta família incluem:
+
+#### ISO 27001
+Sistema de Gestão de Segurança da Informação (SGSI): A ISO 27001 é a norma central da família ISO 27000. Ela estabelece os requisitos para a implementação de um SGSI em uma organização. Um SGSI é um conjunto de políticas, procedimentos, diretrizes e controles que visa proteger informações sensíveis e garantir a confidencialidade, integridade, disponibilidade e autenticidade dessas informações. A ISO 27001 define um processo de gestão de riscos para identificar, avaliar e tratar os riscos de segurança da informação.
+
+#### ISO 27002 
+Código de Boas Práticas: A ISO 27002 fornece um conjunto detalhado de controles de segurança da informação e diretrizes. Ela é frequentemente usada em conjunto com a ISO 27001 para ajudar as organizações a escolher e implementar controles de acordo com suas necessidades específicas. Os controles abrangem áreas como controle de acesso, criptografia, gestão de incidentes de segurança, segurança física e muito mais.
+
+#### ISO 27005 
+Gerenciamento de Riscos de Segurança da Informação: Esta norma se concentra especificamente no gerenciamento de riscos relacionados à segurança da informação. Ela fornece diretrizes detalhadas sobre como identificar, avaliar e tratar os riscos de segurança da informação de maneira eficaz.
+
+#### ISO 27032 
+Segurança Cibernética: Esta norma aborda a segurança cibernética e fornece orientações sobre como as organizações podem proteger-se contra ameaças cibernéticas em um ambiente cada vez mais digital.
+
+#### ISO 27017 e ISO 27018 
+Segurança da Informação na Nuvem: Essas normas específicas se concentram na segurança da informação em ambientes de computação em nuvem. A ISO 27017 fornece diretrizes para provedores de serviços em nuvem, enquanto a ISO 27018 se concentra na proteção de dados pessoais na nuvem.
+
+
+
 
 
