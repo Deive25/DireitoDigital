@@ -246,7 +246,47 @@ Segurança Cibernética: Esta norma aborda a segurança cibernética e fornece o
 #### ISO 27017 e ISO 27018 
 Segurança da Informação na Nuvem: Essas normas específicas se concentram na segurança da informação em ambientes de computação em nuvem. A ISO 27017 fornece diretrizes para provedores de serviços em nuvem, enquanto a ISO 27018 se concentra na proteção de dados pessoais na nuvem.
 
+## licença Digital
+Uma licença de software é um contrato legal que estipula os termos e condições sob os quais um software pode ser usado, distribuído, modificado e compartilhado. Ela desempenha um papel fundamental na proteção dos direitos autorais e na regulação do uso do software, garantindo que os desenvolvedores e os usuários cumpram determinadas diretrizes e restrições. As licenças de software são essenciais para estabelecer as regras e as permissões que regem o software em questão.
 
+#### Software Proprietário
+É um software cuja propriedade e código-fonte são mantidos por uma entidade ou empresa, e o uso é geralmente restrito a acordos de licenciamento. Os usuários não têm acesso ao código-fonte e, geralmente, não podem modificá-lo.
 
+#### Software de Domínio Público
+O software de domínio público é aquele em que os direitos autorais não se aplicam, o que significa que ele está disponível para uso, distribuição e modificação sem restrições.
+
+#### Adware
+Adware é um software que exibe anúncios em um programa ou aplicativo. Geralmente, é gratuito, mas os anúncios são exibidos para gerar receita.
+
+#### Freeware
+Freeware refere-se a software que é gratuito para uso, mas geralmente não inclui o código-fonte. Os usuários podem usá-lo sem pagar, mas não têm permissão para modificá-lo.
+
+#### Shareware
+Shareware é um software que pode ser testado gratuitamente por um período limitado, após o qual o usuário é incentivado a comprar uma licença para continuar usando-o.
+
+#### Software de Código Aberto
+O software de código aberto é aquele cujo código-fonte é disponibilizado ao público, permitindo que os usuários visualizem, modifiquem e distribuam o software livremente, desde que cumpram os termos da licença.
+
+#### GNU General Public License (GPL)
+A GPL é uma licença de código aberto que garante que o software sob sua jurisdição permaneça livre e acessível a todos os usuários. Qualquer software derivado de código GPL deve ser distribuído com uma licença GPL.
+
+#### GNU Free Documentation License (GFDL)
+Essa licença é usada para documentos e textos, permitindo a distribuição, modificação e reutilização, desde que os mesmos termos da licença sejam mantidos.
+
+#### GNU Lesser General Public License (LGPL)
+A LGPL é uma licença semelhante à GPL, mas oferece mais flexibilidade para a incorporação de software em projetos proprietários, desde que as bibliotecas LGPL sejam tratadas de acordo com a licença.
+
+#### GNU Affero General Public License (AGPL)
+A AGPL é uma versão da GPL que aborda especificamente o uso de software em redes, garantindo que as modificações feitas no software sejam disponibilizadas publicamente.
+
+#### Licença Livre
+Uma licença que permite aos usuários a liberdade de usar, modificar e redistribuir o software, desde que sigam as condições da licença.
+
+#### Copyleft
+Uma abordagem que utiliza licenças para garantir que o software e suas modificações permaneçam livres e abertas para todos, forçando a disponibilização do código-fonte em qualquer redistribuição.
+
+### Software como Obra Autoral (Lei nº 9.610/98)
+
+A Lei nº 9.610/98, a Lei dos Direitos Autorais no Brasil, reconhece o software como uma obra autoral protegida por direitos autorais. Isso concede ao autor do software o direito exclusivo de controlar sua reprodução, distribuição, modificação e exibição. A proteção legal do software incentiva a inovação e a colaboração, permitindo que os desenvolvedores compartilhem código com segurança, sob licenças específicas que regulamentam seu uso e distribuição. O uso não autorizado de software protegido por direitos autorais pode levar a ações legais, a menos que seja permitido pela licença de uso.
 
 
